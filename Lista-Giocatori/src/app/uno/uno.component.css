@@ -1,0 +1,23 @@
+.immagine {
+    display: flex;
+    justify-content: center;
+    max-width: 5000px;
+    max-height: 4000px;
+    width: 800px;
+    height: 600px;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+}
+.titolo{
+    display: flex;
+    justify-content: center;
+}
+.sfondo{
+    background-color: black;
+}
+.coloretesto{
+    color: white;
+}
